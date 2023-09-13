@@ -1,18 +1,16 @@
-# Public Procurement AI Monitoring System
+# Public Procurement AI Monitoring System 
 
-![Project Logo](insert_logo_url_here)
+![Project logo](https://github.com/GamalSerag/MOHTASEP/blob/main/UI/logo.jpeg)
+
+
 
 ## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Files Included](#files-included)
-- [Screenshots](#screenshots)
+- [UI](#ui)
 - [How It Works](#how-it-works)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About the Project
 
@@ -24,10 +22,16 @@ The **Public Procurement AI Monitoring System** is an innovative solution aimed 
 - `bid_scoring2.h5`: Pre-trained AI model for bid scoring.
 - `3,457 mohtaseb.ipynb`: Jupyter Notebook containing code for the AI system.
 
-## Screenshots
+## UI
 
-![Screenshot 1](insert_screenshot_url_here)
-![Screenshot 2](insert_screenshot_url_here)
+![Screenshot 1](https://github.com/GamalSerag/MOHTASEP/blob/main/UI/1.jpg)
+
+![Screenshot 2](https://github.com/GamalSerag/MOHTASEP/blob/main/UI/2.jpg)
+
+![Screenshot 2](https://github.com/GamalSerag/MOHTASEP/blob/main/UI/3.jpg)
+
+![Screenshot 2](https://github.com/GamalSerag/MOHTASEP/blob/main/UI/4.jpg)
+
 
 ## How It Works
 
@@ -48,5 +52,7 @@ Our system operates as follows:
 ## Features
 
 - Automated keyword analysis of bid submissions.
-- Comparative cost analysis for
+- Comparative cost analysis for supplier evaluation.
+- Recommendation for tender winners.
+- Supplier feedback and dispute resolution.
 
