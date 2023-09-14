@@ -18,9 +18,10 @@ The **Public Procurement AI Monitoring System** is an innovative solution aimed 
 
 ## Files Included
 
-- `bid_2.txt`: Sample bid file for testing.
-- `bid_scoring2.h5`: AI model for bid scoring.
 - `3,457 mohtaseb.ipynb`: Jupyter Notebook containing code for the AI system.
+- `bid_scoring2.h5`: AI model for bid scoring.
+- `bid_2.txt`: Sample bid file for testing. 
+
 
 ## UI
 
